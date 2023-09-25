@@ -1,0 +1,22 @@
+debug/
+target/
+Cargo.lock
+
+# rustfmt backup files
+**/*.rs.bk
+
+# MSVC Windows builds of rustc generate these, which store debugging information
+*.pdb
+
+# IntelliJ
+.idea
+*.iml
+out
+gen
+
+# platform specific
+Thumbs.db
+Thumbs.db:encryptable
+.DS_Store
+.AppleDouble
+.LSOverride

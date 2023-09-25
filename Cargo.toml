@@ -1,0 +1,9 @@
+[package]
+name = "ocr"
+version = "0.0.1"
+authors = ["Milan van Zanten <milan@milan.wtf>"]
+edition = "2021"
+description = "OCR written in Rust."
+repository = "https://github.com/milanvanzanten/ocr"
+
+[dependencies]
